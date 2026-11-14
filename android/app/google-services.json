@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340611564646",
+    "project_id": "kokichat-89424",
+    "storage_bucket": "kokichat-89424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340611564646:android:688dba71648dfae80259a7",
+        "android_client_info": {
+          "package_name": "com.banince.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340611564646-v0m2clekq51dt025btfqjsn7rp14gous.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.banince.app",
+            "certificate_hash": "aed5d433e6f12b22615c8f55385f740bd1b4732c"
+          }
+        },
+        {
+          "client_id": "340611564646-tvd8hvv4dvuvanc59ej0l65uq0t26cg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN-1RAYGVBKW-ykm4Q__av4PJHH-rziuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340611564646-empr40tr0b8prctp4epv634hiotnavjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
